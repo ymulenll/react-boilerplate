@@ -1,4 +1,4 @@
-# react-boilerplate
+# React boilerplate
 
 React.js | Configuración con Webpack y Babel | desde Cero sin usar create-react-app
 
